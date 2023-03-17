@@ -1,5 +1,5 @@
 import React from 'react'
-import Iframe from 'react-iframe'
+
 
 const Week = ()=>{
   return (
@@ -134,13 +134,3 @@ const ClassWork = () => {
 }
 
  export default ClassWork;
-
-{/* 
-// <Blog week="1"  title="Introduction" description="My introduction"  />
-// <Blog week="1"  title="Introduction" description="My introduction"  />
-// <Blog week="1"  title="Introduction" description="My introduction"  />
-
-
-// Assignment(Movie Review)
-// Movie Title:
-// The Pursuit of Happyness */}
