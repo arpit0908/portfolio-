@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white py-64"
+      className="w-full bg-gradient-to-b from-gray-800 to-black text-white py-10"
     >
       <div className="max-w-screen-lg px-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="">
@@ -15,17 +15,14 @@ const About = () => {
 
         <p className="text-xl sm:mt-20 mt-10">
         I am arpit chauhan ,I belong to new delhi .i am pursuing my graduation in computer science engineering from graphic era hill university,dehradun .
-        and i have completed my schooling from Babu bodhraj senoir secondary school noida  with an aggregate of 93 % in pcm  .
-        Talking about my strength i am well disciplaned and hardworking  person . My key accomplishment is that i participated in bharat ko jano  competition at state level & stood second in exam and won a price money of 
-        rupees 5100 and a certificate .apart from study i like listening music , playing badminton and travelling with my family .
-        </p>
+        and i have completed my schooling from Babu bodhraj senoir secondary school delhi.
+        talking about my skills i have a good command in c,c++ and web development.
+        Currently,I'm working on a project based on web development.some other projects that i have worked on 
+        SOCIAL MEDIA SENTIMENTAL ANALYSIS which was based on Machine learning  and HOSTEL MESS MANAGEMENT which 
+        was based on full stack development. My carrer objective is to be a web developer.
+        my hobbies are cooking , travelling and playing badminton.    </p>
 
         <br />
-
-        <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, ad iure velit vero natus voluptas quidem officiis ea incidunt. Impedit tempore soluta porro necessitatibus odio similique rem nobis ducimus aperiam quisquam explicabo, dignissimos voluptatum vel, aut aspernatur accusamus earum sunt iure provident asperiores veniam facilis. Quia quam dicta laudantium fuga!
-
-        </p>
       </div>
     </div>
   );

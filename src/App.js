@@ -6,14 +6,19 @@ import NavBar from "./components/NavBar";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
 
+import Blogs from "./components/ClassWork";
+
 function App() {
   return (
     <div>
       <NavBar />
       <Home />
+     
+      
       <About />
       <Portfolio />
       <Experience />
+      <Blogs/>
       <Contact />
 
       <SocialLinks />
