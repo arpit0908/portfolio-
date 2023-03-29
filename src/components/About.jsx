@@ -14,13 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl sm:mt-20 mt-10">
-        I am arpit chauhan ,I belong to new delhi .i am pursuing my graduation in computer science engineering from graphic era hill university,dehradun .
-        and i have completed my schooling from Babu bodhraj senoir secondary school delhi.
-        talking about my skills i have a good command in c,c++ and web development.
-        Currently,I'm working on a project based on web development.some other projects that i have worked on 
-        SOCIAL MEDIA SENTIMENTAL ANALYSIS which was based on Machine learning  and HOSTEL MESS MANAGEMENT which 
+        I am arpit chauhan ,I belong to new delhi .I am pursuing my graduation in computer science engineering from Graphic era hill university,dehradun.
+        and i have completed my schooling from Babu bodhraj Convent school Delhi.
+        Talking about my skills i have a good command in c , c++ and web development.
+        Currently,I'm working on a project based on web development.Some other projects that i have worked on 
+        SOCIAL MEDIA SENTIMENTAL ANALYSIS which was based on Machine learning  and HOSTEL MESS MANAGEMENT System  which 
         was based on full stack development. My carrer objective is to be a web developer.
-        my hobbies are cooking , travelling and playing badminton.    </p>
+        my hobbies are Cooking , Travelling and playing Badminton.    </p>
 
         <br />
       </div>
